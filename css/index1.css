@@ -1,0 +1,15 @@
+body{
+    background-color: #00263b;
+    color: white;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: white;
+    border-spacing: 10px;
+    border-width: 4px;
+    border-color: aqua;
+    height: 0px;
+    width:10%;
+    
+}
